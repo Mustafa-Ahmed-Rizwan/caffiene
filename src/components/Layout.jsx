@@ -43,7 +43,7 @@ export default function Layout(props) {
         <a target="_blank" href="">
           Mustafa
         </a><br />
-        Check out the  project on <a target="_blank" href="">Github</a>!
+        Check out the  project on <a target="_blank" href="https://github.com/Mustafa-Ahmed-Rizwan/caffiene">Github</a>!
       </p>
     </footer>
   );
